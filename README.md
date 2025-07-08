@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy Thomas Sejas
 
-<!--
-**ThomySjs/ThomySjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador backend con conocimientos en **Java, Spring Boot y MySQL**. Actualmente estoy aprendiendo **React** para reforzar conocimientos en frontend y completar mi perfil fullstack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologias que utilizo
+- Java, Spring Boot, Spring Security
+- MySQL, PostgreSQL
+- HTML, CSS, JavaScript, React
+- Git, Github
+
+---
+
+### 🚀 Proyectos destacados
+
+:octocat: **Hannigrumis Web App** 
+
+Sistema completo para un emprendimiento: landing page pública + panel de administración (CRUD con login y roles)
+
+➡️ [Repo backend](https://github.com/ThomySjs/Hannigrumis-Back)
+
+➡️ [Repo frontend](https://github.com/ThomySjs/Hannigrumis-Front)
+
+📑 **Menú Digital (App + API)** 
+
+API REST con Flask + Desktop App con Tkinter para la gestión de productos.
+
+➡️ [Repo backend](https://github.com/ThomySjs/Api-Menu)
+
+➡️ [Repo desktop app](https://github.com/ThomySjs/App_productos)
+
+---
+
+### Actualmente buscando...
+
+Mi primera oportunidad laboral como **Desarrollador backend o fullstack**. 
+
+📧 thomysejas@hotmail.com
+
+📍Argentina 
