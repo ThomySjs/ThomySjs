@@ -22,6 +22,8 @@ Sistema completo para un emprendimiento: landing page pública + panel de admini
 
 ➡️ [Repo frontend](https://github.com/ThomySjs/Hannigrumis-Front)
 
+➡️ [Proyecto desplegado](https://hannigrumis.vercel.app/)
+
 📑 **Menú Digital (App + API)** 
 
 API REST con Flask + Desktop App con Tkinter para la gestión de productos.
