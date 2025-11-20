@@ -14,7 +14,18 @@ Soy un desarrollador backend con conocimientos en **Java, Spring Boot y MySQL**.
 
 ### 🚀 Proyectos destacados
 
-:octocat: **Hannigrumis Web App** 
+**Service marketplace** 
+
+Aplicación fullstack para publicación de servicios
+El proyecto consiste en una plataforma web cuyo propósito es ofrecer a emprendedores y PYMES un espacio centralizado para publicar sus servicios.
+Para más detalles sobre todas las funcionalidades del proyecto, consultar la documentación [aquí](https://github.com/ThomySjs/service-marketplace-back/blob/main/docs/ServiceMarketplace.md)
+.
+
+Este proyecto está desarrollado en conjunto con @ffleita como parte de una tesis para la carrera de Tecnicatura Universitaria en Programación (UTN).
+
+➡️ [Repo backend](https://github.com/ThomySjs/service-marketplace-back)
+
+**Hannigrumis Web App** 
 
 Sistema completo para un emprendimiento: landing page pública + panel de administración (CRUD con login y roles)
 
@@ -24,7 +35,7 @@ Sistema completo para un emprendimiento: landing page pública + panel de admini
 
 ➡️ [Proyecto desplegado](https://hannigrumis.vercel.app/)
 
-📑 **Menú Digital (App + API)** 
+**Menú Digital (App + API)** 
 
 API REST con Flask + Desktop App con Tkinter para la gestión de productos.
 
