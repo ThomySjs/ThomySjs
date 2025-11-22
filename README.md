@@ -14,34 +14,31 @@ Soy un desarrollador backend con conocimientos en **Java, Spring Boot y MySQL**.
 
 ### 🚀 Proyectos destacados
 
-**Service marketplace** 
+#### Service marketplace
 
-Aplicación fullstack para publicación de servicios
-El proyecto consiste en una plataforma web cuyo propósito es ofrecer a emprendedores y PYMES un espacio centralizado para publicar sus servicios.
-Para más detalles sobre todas las funcionalidades del proyecto, consultar la documentación [aquí](https://github.com/ThomySjs/service-marketplace-back/blob/main/docs/ServiceMarketplace.md)
-.
+Aplicación fullstack para publicación de servicios cuyo propósito es ofrecer a emprendedores y PYMES un espacio centralizado para publicar sus servicios.
 
-Este proyecto está desarrollado en conjunto con @ffleita como parte de una tesis para la carrera de Tecnicatura Universitaria en Programación (UTN).
+Este proyecto está desarrollado en conjunto con @ffleita como proyecto final integrador de la Tecnicatura Universitaria en Programación (UTN).
 
-➡️ [Repo backend](https://github.com/ThomySjs/service-marketplace-back)
 
-**Hannigrumis Web App** 
+➡️ [Repo backend](https://github.com/ThomySjs/service-marketplace-back)  | Java + Springboot  | Despliegue: Render
 
-Sistema completo para un emprendimiento: landing page pública + panel de administración (CRUD con login y roles)
+➡️ [Repo frontend](https://github.com/ThomySjs/service-marketplace-front)  | ReactJs + Axios + Boostrap5   | Despliegue: Vercel
 
-➡️ [Repo backend](https://github.com/ThomySjs/Hannigrumis-Back)
 
-➡️ [Repo frontend](https://github.com/ThomySjs/Hannigrumis-Front)
+➡️ [Aplicación desplegada](https://service-marketplace-brown.vercel.app/services)
+
+
+#### Hannigrumis
+
+Sistema completo para emprendimiento: landing page pública + panel de administración (CRUD con login y roles)
+
+➡️ [Repo backend](https://github.com/ThomySjs/Hannigrumis-Back)   | Java + Springboot  | Despliegue: Koyeb
+
+➡️ [Repo frontend](https://github.com/ThomySjs/Hannigrumis-Front)   | Html + Js + Css   | Despliegue: Vercel
 
 ➡️ [Proyecto desplegado](https://hannigrumis.vercel.app/)
 
-**Menú Digital (App + API)** 
-
-API REST con Flask + Desktop App con Tkinter para la gestión de productos.
-
-➡️ [Repo backend](https://github.com/ThomySjs/Api-Menu)
-
-➡️ [Repo desktop app](https://github.com/ThomySjs/App_productos)
 
 ---
 
